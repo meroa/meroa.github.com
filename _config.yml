@@ -1,10 +1,7 @@
 markdown: rdiscount
 permalink: /:title
 title: Meroa
-url: http://zhuwenxiang.com
-subscribe: http://zhuwenxiang.com/feed.xml
 exclude: [ README.md ]
-domain: zhuwenxiang.com
 email: zhuwx@mail.ustc.edu.cn
 auto: true
 googleAnalyticsID: UA-593131-4
